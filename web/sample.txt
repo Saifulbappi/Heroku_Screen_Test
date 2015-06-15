@@ -1,0 +1,12 @@
+/qa?q=who+is+Bill+Gates%3F
+/qa?q=where+is+Bangladesh?
+/qa?q=who+is+Tom+Cruise?
+/qa?q=who+is+Vladimir+Putin?
+/greetings?q=Hello!%20How%20are%20you?
+/weather?q=What+ is+ today’s+ Temperature+in+ Dhaka ?
+/weather?q=Is there Clouds weather today in London ?
+/weather?q=Is there Clear weather today in Dhaka ?
+/weather?q=Is there Rain weather today in Chittagong?
+/greetings?q=Hi!Good night?
+/greetings?q=Hi!Good evening?
+
