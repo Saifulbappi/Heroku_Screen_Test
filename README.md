@@ -1,5 +1,6 @@
 #
-This is a REST API built for muktosoft_surecash Screening test for recruiting
+This is a REST API built for muktosoft_surecash Screening test for recruiting purpose.
+
 For question no 3...
 DBpedia has been used for Question answer in natural language. Since this is not good as wikipedia, Question asking are very tightly specific
 
