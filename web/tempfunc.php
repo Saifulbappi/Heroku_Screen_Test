@@ -107,7 +107,7 @@ function my_json_response($reqtype,$givenstring){
             }
             else{
                 /**Question dont know handle*/
-                $message.=" Your majesty! Jon Snow knows nothing! So do I!";
+                $message.= "Sorry ! I don't know how to respond u";
 
             }
 
